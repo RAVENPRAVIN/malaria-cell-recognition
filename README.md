@@ -11,7 +11,7 @@ It involves achieving high accuracy in classifying malaria-infected cells versus
 
 ## Neural Network Model
 
-![alt text](Outputs/cells.png)
+![alt text](<Outputs/NN model.png>)
 
 ## DESIGN STEPS
 
